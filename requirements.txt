@@ -1,7 +1,11 @@
 pandas 
 numpy
 seaborn
--e . 
+matplotlib
+scikit-learn
+catboost
+xgboost
+# -e . 
 #whener we add something in requirements.txt the setup.py should also run to build the pacakages 
 
 #will automatically trigger the setup.py file
